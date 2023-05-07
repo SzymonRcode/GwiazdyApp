@@ -36,7 +36,7 @@ API składa się z 3 endpoint'ów: `Calendar`, `Stars` i `Constellations`
     - Usunięcie konstelacji
 ## Uruchomienie API
 ---
-Należy utworzyć plik .env z danymi do połączenia się z bazą zabezpieczeniem Basic Auth do aplikacji Front-end'owej.
+Należy utworzyć plik .env z danymi do połączenia się z bazą oraz zabezpieczeniem Basic Auth do aplikacji Front-end'owej.
 
 ### Szablon konfiguracji
 > .env
