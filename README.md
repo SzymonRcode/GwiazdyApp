@@ -8,6 +8,8 @@ API do zarządzania gwiazdami oraz pogodą
 
 Aplikacja front-end'owa, która korzysta z API [tutaj](https://github.com/kaholk/projekt_gwiazdy)
 
+API jest dostępne pod adresem [api-gwiazdy.srym.pl](https://api-gwiazdy.srym.pl/)
+ 
 API składa się z 3 endpoint'ów: `Calendar`, `Stars` i `Constellations`
 - Endpoint `Calendar` zwiera request'y takie jak: 
     - Wyświetlenie wszystkich dat
