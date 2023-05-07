@@ -1,0 +1,25 @@
+{
+  "name": "gwiazdyapp",
+  "version": "1.0.0",
+  "description": "Api for GwiazdyApp",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "API",
+    "gwiazdy"
+  ],
+  "author": "Szymon R, Karol B, Wiktor K",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.1",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
+  }
+}
