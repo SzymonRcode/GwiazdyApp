@@ -52,7 +52,7 @@ BASIC_AUTH_PASSWORD = 'basic_auth_pass'
 PORT = 'port'
 ```
 ### Struktura bazy
-Struktura bazy ![Struktura](/struktura.png)
+![Struktura](/struktura.png)
 ### Instalacja zależności
 ```
 npm install
